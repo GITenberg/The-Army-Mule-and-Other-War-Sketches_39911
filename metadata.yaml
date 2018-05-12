@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '40294'
     url: http://www.gutenberg.org/2009/agents/40294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39911#The-Army-Mule-and-Other-War-Sketches
 gutenberg_issued: '2012-06-03'
 gutenberg_type: Text
 identifiers:
